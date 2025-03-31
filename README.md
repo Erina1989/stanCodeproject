@@ -7,7 +7,9 @@ This is my Stancode project!
   -  python semantics & syntax
 - *[SC001-PotholeFilling](PotholeFilling.py)* 
   -  python semantics & syntax
-- *[SC001-BeeperRow](BeeperRow.py)*
+- *[SC002-BeeperRow](BeeperRow.py)*
   -  python semantics & syntax
-- *[SC001-BeeperRowAdv](BeeperRowAdv.py)*
+- *[SC002-BeeperRowAdv](BeeperRowAdv.py)*
+  -  python semantics & syntax
+- *[SC002-Steeplechase](Steeplechase.py)*
   -  python semantics & syntax
