@@ -4,5 +4,6 @@ This is my Stancode project!
 - *[SC001-StepUP](StepUp.py)* 
   - python semantics & syntax 
 - *[SC001-MoveToTheEnd](MoveToTheEnd.py)*   
-  -python semantics & syntax
-- *[SC001-StepUP](StepUp.py)* 
+  - python semantics & syntax
+- *[SC001-PotholeFilling](PotholeFilling.py)* 
+  - python semantics & syntax
