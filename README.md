@@ -12,4 +12,4 @@ This is my Stancode project!
 - *[SC002-BeeperRowAdv](BeeperRowAdv.py)*
   -  python semantics & syntax
 - *[SC002-Steeplechase](Steeplechase.py)*
-  -  python semantics & syntax
+  -  Utilizing the python semantics & syntax above to create a steeplechase
