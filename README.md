@@ -1,2 +1,2 @@
 # stanCodeproject
-*[StepUp.py](link)*
+*[StepUp](StepUp.py)*
