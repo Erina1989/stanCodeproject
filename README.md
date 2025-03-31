@@ -1,3 +1,3 @@
 # my_stanCodeproject
-*[<ins> SC001-StepUP</ins>](StepUp.py)  
-  -python semantics & syntax
+*[<ins> SC001-StepUP</ins>](StepUp.py)
+python semantics & syntax\(nested list)
