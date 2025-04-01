@@ -1,5 +1,4 @@
-# my stanCodeproject
-This is my Stancode project!
+This is my project!
 # Project Source Code
 - *[SC001-StepUP](StepUp.py)* 
   -  python semantics & syntax 
